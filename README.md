@@ -8,7 +8,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=jainsahab)
 
 
-Hi, I'm Prateek, a passionate developer from India. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. 
+Hi, I'm Prateek, a passionate developer from India. I am also an open-source enthusiast and maintainer. I learnt a lot from the open-source community, and I love how collaboration and knowledge sharing happens through open-source. 
 
 
 **Languages and Tools:**  
